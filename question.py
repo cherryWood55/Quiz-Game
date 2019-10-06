@@ -1,3 +1,4 @@
+# coding: utf-8
 def test(questions, answers):
     print ("General Instructions:\n1. Please enter only the choice number corresponding to the correct answer.\n2. Each question carries 5 points\n3. Wrong anwer leads to -1 marks per question\nGood Luck!\n")
     print (questions[0])
@@ -6,6 +7,8 @@ def test(questions, answers):
     ans2 = input()
     print (questions[2])
     ans3 = input()
+    print (questions[3])
+    ans4 = input()
     score = 0
     if ans1 == answers[0] or ans1 == answers[0].upper():
         score += 5
@@ -28,6 +31,13 @@ def test(questions, answers):
         score -=1
         print ("Q.3 Incorrect!")
         print ("Right Answer is " + answers[2])
+    if ans4 == answers[3] or ans4 == answers[3].upper():
+        score += 5
+        print ("Q.3 Absolutely Correct!")
+    else:
+        score -=1
+        print ("Q.4 Incorrect!")
+        print ("Right Answer is " + answers[3])
     print ("Your Score:", score, "/15")
 
 def play_quiz():
@@ -49,8 +59,8 @@ def play_quiz():
             print ("Invalid choice. Enter again")
         count += 1
 
-science_questions = ["Which one of the following is India's permanent research station in Antarctica?\n(a) Ganga\n(b) Agni\n(c) Maitri\n(d) None of the above\n", "Identify India's first indigenous Satellite Launch Vehicle (SLV):\n(a)SLV-1\n(b)PSLV\n(c)SLV-3\n(d)GSLV\n","Where is India's Central Rice Research Institue located?\n(a)Bengaluru\n(b)Kanpur\n(c)Coimbatore\n(d)Cuttack\n"]
-science_answers = ['c', 'c', 'd']
+science_questions = ["Which one of the following is India's permanent research station in Antarctica?\n(a) Ganga\n(b) Agni\n(c) Maitri\n(d) None of the above\n", "Identify India's first indigenous Satellite Launch Vehicle (SLV):\n(a)SLV-1\n(b)PSLV\n(c)SLV-3\n(d)GSLV\n","Where is India's Central Rice Research Institue located?\n(a)Bengaluru\n(b)Kanpur\n(c)Coimbatore\n(d)Cuttack\n","Which dam withhold the largest water reservoir in India?\n(a)Bhakra Dam\n(b)Indrisagar Dam\n(c)Hirakud Dam\n(d)Tehri Dam\n"]
+science_answers = ['c', 'c', 'd', 'b']
 history_questions = ["The Indian National Congress was founded by:\n(a) A.O.Hume\n(b) Bal Gangadhar Tilak\n(c) Motilal Nehru\n(d) Surendranath Banerjee\n", "The author of 'Poverty and Un-British Rule in India is\n(a) R. C. Dutt\n(b) Dadabhai Naoroji\n(c) Lala Lajpat Rai\n(d) Surendra Nath Banerjee\n", "Who among the following was popularly known as the ‘Frontier Gandhi’?\n(a) Hasrat Mohani\n(b) Maulana Abul Kalam Azad\n(c) Khan Abdul Ghaffar Khan\n(d) Iqbal Khan\n"]
 history_answers = ['a', 'b', 'c']
 commerce_questions = ["Which one among the following has the largest share of exports from India?\n(a) Agriculture and Allied Commodity\n(b) Gems and Jewellery\n(c) Handicrafts\n(d) Electronic Goods\n", "Which of the following is not a logical data structure?\n(a) Chain\n(b) Tree\n(c) Stack\n(d) List\n", "The income from the sale of a machinery used in business is treated as?\n(a) Income from business and profession\n(b) Short-term capital gain\n(c) Long-term capital gain\n(d) Income from other sources\n"]
