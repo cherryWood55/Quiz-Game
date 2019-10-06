@@ -6,6 +6,8 @@ def test(questions, answers):
     ans2 = input()
     print (questions[2])
     ans3 = input()
+    print (questions[3])
+    ans4 = input()
     score = 0
     if ans1 == answers[0] or ans1 == answers[0].upper():
         score += 5
@@ -28,7 +30,14 @@ def test(questions, answers):
         score -=1
         print ("Q.3 Incorrect!")
         print ("Right Answer is " + answers[2])
-    print ("Your Score:", score, "/15")
+    if ans4 == answers[3] or ans4 == answers[3].upper():
+        score += 5
+        print ("Q.4 Absolutely Correct!")
+    else:
+        score -=1
+        print ("Q.4 Incorrect!")
+        print ("Right Answer is " + answers[3])
+    print ("Your Score:", score, "/20")
 
 def play_quiz():
     print ("Welcome to Today's Quiz!\nChoose your domain of interest:\nA. Science and Technology\nB. History of India\nC. Commerce\nEnter your choice:")
@@ -49,12 +58,12 @@ def play_quiz():
             print ("Invalid choice. Enter again")
         count += 1
 
-science_questions = ["Which one of the following is India's permanent research station in Antarctica?\n(a) Ganga\n(b) Agni\n(c) Maitri\n(d) None of the above\n", "Identify India's first indigenous Satellite Launch Vehicle (SLV):\n(a)SLV-1\n(b)PSLV\n(c)SLV-3\n(d)GSLV\n","Where is India's Central Rice Research Institue located?\n(a)Bengaluru\n(b)Kanpur\n(c)Coimbatore\n(d)Cuttack\n"]
-science_answers = ['c', 'c', 'd']
-history_questions = ["The Indian National Congress was founded by:\n(a) A.O.Hume\n(b) Bal Gangadhar Tilak\n(c) Motilal Nehru\n(d) Surendranath Banerjee\n", "The author of 'Poverty and Un-British Rule in India is\n(a) R. C. Dutt\n(b) Dadabhai Naoroji\n(c) Lala Lajpat Rai\n(d) Surendra Nath Banerjee\n", "Who among the following was popularly known as the ‘Frontier Gandhi’?\n(a) Hasrat Mohani\n(b) Maulana Abul Kalam Azad\n(c) Khan Abdul Ghaffar Khan\n(d) Iqbal Khan\n"]
-history_answers = ['a', 'b', 'c']
-commerce_questions = ["Which one among the following has the largest share of exports from India?\n(a) Agriculture and Allied Commodity\n(b) Gems and Jewellery\n(c) Handicrafts\n(d) Electronic Goods\n", "Which of the following is not a logical data structure?\n(a) Chain\n(b) Tree\n(c) Stack\n(d) List\n", "The income from the sale of a machinery used in business is treated as?\n(a) Income from business and profession\n(b) Short-term capital gain\n(c) Long-term capital gain\n(d) Income from other sources\n"]
-commerce_answers = ['b', 'a', 'b']
+science_questions = ["Which one of the following is India's permanent research station in Antarctica?\n(a) Ganga\n(b) Agni\n(c) Maitri\n(d) None of the above\n", "Identify India's first indigenous Satellite Launch Vehicle (SLV):\n(a)SLV-1\n(b)PSLV\n(c)SLV-3\n(d)GSLV\n","Where is India's Central Rice Research Institue located?\n(a)Bengaluru\n(b)Kanpur\n(c)Coimbatore\n(d)Cuttack\n","Nuclear explosive devices were tested in India at\n(a)Banglore\n(b)Sriharikota\n(c)Kanchipuram\n(d)Pokharan\n"]
+science_answers = ['c', 'c', 'd','d']
+history_questions = ["The Indian National Congress was founded by:\n(a) A.O.Hume\n(b) Bal Gangadhar Tilak\n(c) Motilal Nehru\n(d) Surendranath Banerjee\n", "The author of 'Poverty and Un-British Rule in India is\n(a) R. C. Dutt\n(b) Dadabhai Naoroji\n(c) Lala Lajpat Rai\n(d) Surendra Nath Banerjee\n", "Who among the following was popularly known as the ‘Frontier Gandhi’?\n(a) Hasrat Mohani\n(b) Maulana Abul Kalam Azad\n(c) Khan Abdul Ghaffar Khan\n(d) Iqbal Khan\n","Which among the following Vedic Texts gives a systematic exposition of the ‘theory of rebirth’ for the first time?\n(a) Chhandogya Upanishad\n(b) Mundaka Upanishad\n(c) Satapatha Brahmana\n(d) Brihadaranyaka Upanishad\n"]
+history_answers = ['a', 'b', 'c','a']
+commerce_questions = ["Which one among the following has the largest share of exports from India?\n(a) Agriculture and Allied Commodity\n(b) Gems and Jewellery\n(c) Handicrafts\n(d) Electronic Goods\n", "Which of the following is not a logical data structure?\n(a) Chain\n(b) Tree\n(c) Stack\n(d) List\n", "The income from the sale of a machinery used in business is treated as?\n(a) Income from business and profession\n(b) Short-term capital gain\n(c) Long-term capital gain\n(d) Income from other sources\n","Investment in which of the following is most risky?\n(a) Equity shares\n(b) Preference shares\n(c) Debentures\n(d) Land\n"]
+commerce_answers = ['b', 'a', 'b','a']
 print ("Wanna test your GK?\nA. Yes\nB. No")
 play = input()
 if play == 'A' or play =='a':
