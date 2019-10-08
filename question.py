@@ -51,9 +51,12 @@ def user_begin_prompt():
     play = input()
     if play.lower() == 'a':
         play_quiz()
+    elif play.lower() == 'b':
+        print("Hope you come back soon!")
     else:
-        print("Ok! See you later!")
-
+        print("Hmm. I'm having a hard time understanding you. Can you repeat that?\nPress A to play, B to quit.")
+        user_begin_prompt()
+        
 def execute():
     user_begin_prompt()
 
