@@ -82,11 +82,3 @@ if play == 'A' or play == 'a':
     play_quiz()
 else:
     print ("Ok! See you later!")
-
-
-
-    
-
-    
-    
-    
