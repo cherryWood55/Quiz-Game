@@ -49,7 +49,7 @@ def play_quiz():
 def user_begin_prompt():
     print("Wanna test your GK?\nA. Yes\nB. No")
     play = input()
-    if play.lower() == 'a':
+    if play.lower() == 'a' or play.lower() ==  'y':
         play_quiz()
     else:
         print("Ok! See you later!")
