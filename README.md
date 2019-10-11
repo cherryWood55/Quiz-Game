@@ -21,3 +21,5 @@ A simple quiz game built using Python
 7. The game will exit on its own. To play again, follow instructions from step 2.
 
 #### If you find any bugs in the game, please visit https://github.com/cherryWood55/Quiz-Game/issues/ to report the issue. Enjoy the game!
+
+#### If you like it, do not forget to give your feedback of this repository!
