@@ -2,19 +2,24 @@
 from topics import *
 
 def ask_one_question(question):
-    print(question)
-    ans = input()
-    return ans
+    print("\n" + question)
+    choice = input("Enter Choice [a/b/c/d]: ")
+    while(True):
+        if choice.lower() in ['a', 'b', 'c', 'd']:
+            return choice
+        else:
+            print("Invalid choice. Enter again")
+            choice = input("Enter Choice [a/b/c/d]: ")
 
-def score_one_result(meta):
+def score_one_result(key, meta):
     actual = meta["answer"]
     if meta["user_response"].lower() == actual.lower():
-        print("Q.1 Absolutely Correct!")
+        print("Q.{0} Absolutely Correct!\n".format(key))
         return 5
     else:
-        print("Q.1 Incorrect!")
-        print("Right Answer is " + actual)
-        print ("For more information, check out " + meta["more_info"] + "\n")
+        print("Q.{0} Incorrect!".format(key))
+        print("Right Answer is ({0})".format(actual))
+        print ("Learn more @ " + meta["more_info"] + "\n")
         return -1
 
 
@@ -23,16 +28,17 @@ def test(questions):
     print("General Instructions:\n1. Please enter only the choice number corresponding to the correct answer.\n2. Each question carries 5 points\n3. Wrong anwer leads to -1 marks per question\nGood Luck!\n")
     for key, meta in questions.items():
         questions[key]["user_response"] = ask_one_question(meta["question"])
+    print("\n***************** RESULT ********************\n")
     for key, meta in questions.items():
-        score += score_one_result(meta)
-    print("Your Score:", score, "/15")
+        score += score_one_result(key, meta)
+    print("Your Score:", score, "/", (5 * len(questions)))
 
 def play_quiz():
-    print("Welcome to Today's Quiz!\nChoose your domain of interest:\nA. Science and Technology\nB. History of India\nC. Commerce\nEnter your choice:")
+    print("Welcome to Today's Quiz!\nChoose your domain of interest:\n(a). Science and Technology\n(b). History of India\n(c). Commerce\nEnter your choice:")
 
     count = 0
     while(count < 3):
-        choice = input()
+        choice = input("Enter Choice [a/b/c]: ")
         if choice.lower() == 'a':
             test(topics.science.questions)
             break
@@ -45,6 +51,7 @@ def play_quiz():
         else:
             print("Invalid choice. Enter again")
         count += 1
+        print("")
 
 def user_begin_prompt():
     print("Wanna test your GK?\nA. Yes\nB. No")
