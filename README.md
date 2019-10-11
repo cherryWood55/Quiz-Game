@@ -6,7 +6,7 @@ A simple quiz game built using Python
         If version is python 3.x you can continue.
         If version is python 2.x, try: python3 --version.
   
-        If you recieve a version replace 'python' with 'python3' for the rest of these instructions below.
+        If you receive a version replace 'python' with 'python3' for the rest of these instructions bellow.
   
 2. Start the game: type python(3) questions.py
 
