@@ -54,7 +54,7 @@ def user_begin_prompt():
     elif play.lower() == 'b':
         print("Hope you come back soon!")
     else:
-        print("Hmm. I'm having a hard time understanding you. Can you repeat that?\nPress A to play, B to quit.")
+        print("Hmm. I didn't quite understand that.\nPress A to play, or B to quit.")
         user_begin_prompt()
         
 def execute():
