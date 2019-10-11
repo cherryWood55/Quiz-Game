@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-
+# coding=utf-8
 questions = {
   1: {
     "question": "The Indian National Congress was founded by:\n(a) A.O.Hume\n(b) Bal Gangadhar Tilak\n(c) Motilal Nehru\n(d) Surendranath Banerjee\n",

@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# pylint: disable=no-member
 from topics import *
 
 def ask_one_question(question):
@@ -28,10 +29,10 @@ def test(questions):
     print("Your Score:", score, "/15")
 
 def play_quiz():
-    print("Welcome to Today's Quiz!\nChoose your domain of interest:\nA. Science and Technology\nB. History of India\nC. Commerce\nEnter your choice:")
+    print("Welcome to Today's Quiz!\nChoose your domain of interest:\nA. Science and Technology\nB. History of India\nC. Commerce\nD. World GK Question\nEnter your choice:")
 
     count = 0
-    while(count < 3):
+    while(count < 4):
         choice = input()
         if choice.lower() == 'a':
             test(topics.science.questions)
@@ -41,6 +42,9 @@ def play_quiz():
             break
         elif choice.lower() =='c':
             test(topics.commerce.questions)
+            break
+        elif choice.lower() =='d':
+            test(topics.worldgk.questions)
             break
         else:
             print("Invalid choice. Enter again")
