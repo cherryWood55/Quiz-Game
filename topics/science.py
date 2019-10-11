@@ -18,7 +18,7 @@ questions = {
     "answer": "d",
     "more_info": "https://en.wikipedia.org/wiki/Central_Rice_Research_Institute",
     "user_response": None,
-  }
+  },
   4: {
     "question": "In which year ISRO was founded?\n(a)1969\n(b)1972\n(c)1968\n(d)1970\n",
     "answer": "a",
