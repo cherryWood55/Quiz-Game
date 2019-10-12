@@ -1,0 +1,21 @@
+{
+    "1": {
+      "question": "Which one of the following is a coding language also known as a term for coffee?\n(a) Java\n(b) Joe\n(c) CoffeeBean\n(d) None of the above\n",
+      "answer": "a",
+      "more_info": "https://en.wikipedia.org/wiki/Java_(programming_language)",
+      "user_response": "None"
+    },
+    "2": {
+      "question": "Which was the world's first successful electronic computer?\n(a) PARAM\n(b) CRAY-1\n(c) Pascaline\n(d) ENIAC (Electronic Numerical Integrator And Computer)\n",
+      "answer": "d",
+      "more_info": "https://en.wikipedia.org/wiki/ENIAC",
+      "user_response": "None"
+    },
+    "3": {
+      "question": "How is the quality of a printer measured?\n(a) Alphabet per strike\n(b) Words per Inch\n(c) Strike per Inch\n(d) Dots per Inch\n",
+      "answer": "d",
+      "more_info": "https://en.wikipedia.org/wiki/Dots_per_inch",
+      "user_response": "None"
+    }
+  }
+  
