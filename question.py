@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 import json
 
-TOPICS_LIST = ['science', 'history', 'commerce', 'technology'] 
+TOPICS_LIST = ['science', 'history', 'commerce', 'technology', 'worldgk'] 
 # this list has to in sync with the JSON filename and the Menu prompt inside test() method
 
 def ask_one_question(question):
@@ -49,7 +49,7 @@ def load_question(filename):
 def play_quiz():
     flag = False
     try:
-        choice = int(input("Welcome to Today's Quiz!\nChoose your domain of interest:\n(1). Science and Technology\n(2). History of India\n(3). Commerce\n(4). Technology\nEnter your choice: "))
+        choice = int(input("Welcome to Today's Quiz!\nChoose your domain of interest:\n(1). Science and Technology\n(2). History of India\n(3). Commerce\n(4). Technology\n(5). World Gk\n Enter your choice: "))
         if choice > len(TOPICS_LIST) or choice < 1:
             print("Invalid Choice. Enter Again")
             flag = True # raising flag
