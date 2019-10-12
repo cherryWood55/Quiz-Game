@@ -8,7 +8,7 @@ A simple quiz game built using Python
   
         If you receive a version replace 'python' with 'python3' for the rest of these instructions below.
   
-2. Start the game: type python(3) questions.py
+2. Start the game: type python(3) question.py
 
 3. The game will run in the terminal. Answer the first question. (a) Start the game, (b) Exit
 
