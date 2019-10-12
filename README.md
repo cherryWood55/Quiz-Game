@@ -28,7 +28,6 @@ A simple quiz game built using Python
 ### Contributors
 
 ```
-    Diya NC
     Diya Nag Chaudhury
     Amitrajit Bose
     Dave Van Fleet
