@@ -16,6 +16,12 @@
       "answer": "d",
       "more_info": "https://en.wikipedia.org/wiki/Dots_per_inch",
       "user_response": "None"
+    },
+    "4": {
+      "question": "Who developed Yahoo?\n(a) Dennis Ritchie & Ken Thompson\n(b) David Filo & Jerry Yang\n(c) Vint Cerf & Robert Kahn\n(d) Steve Case & Jeff Bezos\n",
+      "answer": "b",
+      "more_info": "https://en.wikipedia.org/wiki/History_of_Yahoo!",
+      "user_response": "None"
     }
   }
   
