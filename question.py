@@ -1,20 +1,28 @@
 #!/usr/bin/env python3
-from topics import *
+import json
+
+TOPICS_LIST = ['science', 'history', 'commerce'] 
+# this list has to in sync with the JSON filename and the Menu prompt inside test() method
 
 def ask_one_question(question):
-    print(question)
-    ans = input()
-    return ans
+    print("\n" + question)
+    choice = input("Enter Choice [a/b/c/d]: ")
+    while(True):
+        if choice.lower() in ['a', 'b', 'c', 'd']:
+            return choice
+        else:
+            print("Invalid choice. Enter again")
+            choice = input("Enter Choice [a/b/c/d]: ")
 
-def score_one_result(meta):
+def score_one_result(key, meta):
     actual = meta["answer"]
     if meta["user_response"].lower() == actual.lower():
-        print("Q.1 Absolutely Correct!")
+        print("Q.{0} Absolutely Correct!\n".format(key))
         return 5
     else:
-        print("Q.1 Incorrect!")
-        print("Right Answer is " + actual)
-        print ("For more information, check out " + meta["more_info"] + "\n")
+        print("Q.{0} Incorrect!".format(key))
+        print("Right Answer is ({0})".format(actual))
+        print ("Learn more @ " + meta["more_info"] + "\n")
         return -1
 
 
@@ -23,28 +31,37 @@ def test(questions):
     print("General Instructions:\n1. Please enter only the choice number corresponding to the correct answer.\n2. Each question carries 5 points\n3. Wrong anwer leads to -1 marks per question\nGood Luck!\n")
     for key, meta in questions.items():
         questions[key]["user_response"] = ask_one_question(meta["question"])
+    print("\n***************** RESULT ********************\n")
     for key, meta in questions.items():
-        score += score_one_result(meta)
-    print("Your Score:", score, "/15")
+        score += score_one_result(key, meta)
+    print("Your Score:", score, "/", (5 * len(questions)))
+
+def load_question(filename):
+    """
+    loads the questions from the JSON file into a Python dictionary and returns it
+    """
+    questions = None
+    with open(filename, "r") as read_file:
+        questions = json.load(read_file)
+    return (questions)
+
 
 def play_quiz():
-    print("Welcome to Today's Quiz!\nChoose your domain of interest:\nA. Science and Technology\nB. History of India\nC. Commerce\nEnter your choice:")
+    flag = False
+    try:
+        choice = int(input("Welcome to Today's Quiz!\nChoose your domain of interest:\n(1). Science and Technology\n(2). History of India\n(3). Commerce\nEnter your choice: "))
+        if choice > len(TOPICS_LIST) or choice < 1:
+            print("Invalid Choice. Enter Again")
+            flag = True # raising flag
+    except ValueError as e:
+        print("Invalid Choice. Enter Again")
+        flag = True # raising a flag
 
-    count = 0
-    while(count < 3):
-        choice = input()
-        if choice.lower() == 'a':
-            test(topics.science.questions)
-            break
-        elif choice.lower() == 'b':
-            test(topics.history.questions)
-            break
-        elif choice.lower() =='c':
-            test(topics.commerce.questions)
-            break
-        else:
-            print("Invalid choice. Enter again")
-        count += 1
+    if not flag:
+        questions = load_question('topics/'+TOPICS_LIST[choice-1]+'.json')
+        test(questions)
+    else:
+        play_quiz() # replay if flag was raised
 
 def user_begin_prompt():
     print("Wanna test your GK?\nA. Yes\nB. No")

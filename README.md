@@ -6,9 +6,10 @@ A simple quiz game built using Python
         If version is python 3.x you can continue.
         If version is python 2.x, try: python3 --version.
   
-        If you receive a version replace 'python' with 'python3' for the rest of these instructions bellow.
+=======
+        If you receive a version replace 'python' with 'python3' for the rest of these instructions below.
   
-2. Start the game: type python(3) questions.py
+2. Start the game: type python(3) question.py
 
 3. The game will run in the terminal. Answer the first question. (a) Start the game, (b) Exit
 
@@ -23,3 +24,17 @@ A simple quiz game built using Python
 #### If you find any bugs in the game, please visit https://github.com/cherryWood55/Quiz-Game/issues/ to report the issue. Enjoy the game!
 
 #### If you like it, do not forget to give your feedback of this repository!
+
+### Contributors
+
+```
+    Diya NC
+    Diya Nag Chaudhury
+    Amitrajit Bose
+    Dave Van Fleet
+    David John Coleman II
+    Ryan Wilson
+    Souvik Mondal
+    Xacrolyte
+    pasanjayawickrama
+```
