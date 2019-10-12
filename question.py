@@ -1,5 +1,8 @@
 #!/usr/bin/env python3
-from topics import *
+import json
+
+TOPICS_LIST = ['science', 'history', 'commerce'] 
+# this list has to in sync with the JSON filename and the Menu prompt inside test() method
 
 def ask_one_question(question):
     print("\n" + question)
@@ -33,25 +36,32 @@ def test(questions):
         score += score_one_result(key, meta)
     print("Your Score:", score, "/", (5 * len(questions)))
 
-def play_quiz():
-    print("Welcome to Today's Quiz!\nChoose your domain of interest:\n(a). Science and Technology\n(b). History of India\n(c). Commerce\nEnter your choice:")
+def load_question(filename):
+    """
+    loads the questions from the JSON file into a Python dictionary and returns it
+    """
+    questions = None
+    with open(filename, "r") as read_file:
+        questions = json.load(read_file)
+    return (questions)
 
-    count = 0
-    while(count < 3):
-        choice = input("Enter Choice [a/b/c]: ")
-        if choice.lower() == 'a':
-            test(topics.science.questions)
-            break
-        elif choice.lower() == 'b':
-            test(topics.history.questions)
-            break
-        elif choice.lower() =='c':
-            test(topics.commerce.questions)
-            break
-        else:
-            print("Invalid choice. Enter again")
-        count += 1
-        print("")
+
+def play_quiz():
+    flag = False
+    try:
+        choice = int(input("Welcome to Today's Quiz!\nChoose your domain of interest:\n(1). Science and Technology\n(2). History of India\n(3). Commerce\nEnter your choice: "))
+        if choice > len(TOPICS_LIST) or choice < 1:
+            print("Invalid Choice. Enter Again")
+            flag = True # raising flag
+    except ValueError as e:
+        print("Invalid Choice. Enter Again")
+        flag = True # raising a flag
+
+    if not flag:
+        questions = load_question('topics/'+TOPICS_LIST[choice-1]+'.json')
+        test(questions)
+    else:
+        play_quiz() # replay if flag was raised
 
 def user_begin_prompt():
     print("Wanna test your GK?\nA. Yes\nB. No")
