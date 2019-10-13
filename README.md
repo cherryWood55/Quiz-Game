@@ -11,10 +11,10 @@ A simple quiz game built using Python
   
 2. Start the game: type python(3) question.py
 
-3. The game will run in the terminal. Answer the first question. (a) Start the game, (b) Exit
+3. The game will run in the terminal. Answer the first question. that is whether you want to start the game and you have to select Yes or NO (a) Start the game, (b) Exit
 
-4. Pick your interest, (a) Science and technology, (b) History of India, (c) Commerce
-
+4. Pick your interest, (a) Science and technology, (b) History of India, (c) Commerce (d)Technology
+depending upon your interest you'll be presented by domain specific questions.
 5. Read the general instructions prompt for point system information and how to answer the questions.
 
 6. Answer each question. At the end of the game, you will be told if your answers were correct/incorrect. If incorrect, the correct answer will be displayed. You will also be provided a little insight into the question and your final score will be revealed to you.
