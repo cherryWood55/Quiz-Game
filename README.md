@@ -17,7 +17,7 @@ A simple quiz game built using Python
 
 5. Read the general instructions prompt for point system information and how to answer the questions.
 
-6. Answer each question. At the end of the game, you will be told if your answers were correct/incorrect. If incorrect, the correct answer will be displayed. You will also be provided a wiki link for more information on the answer and your final score will be shown to you.
+6. Answer each question. At the end of the game, you will be told if your answers were correct/incorrect. If incorrect, the correct answer will be displayed. You will also be provided a little insight into the question and your final score will be revealed to you.
 
 7. The game will exit on its own. To play again, follow instructions from step 2.
 
