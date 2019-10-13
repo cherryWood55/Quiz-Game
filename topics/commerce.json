@@ -2,19 +2,31 @@
   "1": {
     "question": "Which one among the following has the largest share of exports from India?\n(a) Agriculture and Allied Commodity\n(b) Gems and Jewellery\n(c) Handicrafts\n(d) Electronic Goods\n",
     "answer": "b",
-    "more_info": "http://www.worldstopexports.com/indias-top-10-exports/",
+    "more_info": "India is the leading diamond exporter in the world with an 18.8% market share of an annual export market worth 127 billion dollars.",
     "user_response": "None"
   },
   "2": {
-    "question": "Which of the following is not a logical data structure?\n(a) Chain\n(b) Tree\n(c) Stack\n(d) List\n",
-    "answer": "a",
-    "more_info": "https://en.wikipedia.org/wiki/Logical_schema",
+    "question": "What does GST stand for?\n(a) Goods and Sales Tax\n(b) Government Sales Tax\n(c) Goods and Services Tax\n(d) General Sales Tax\n",
+    "answer": "c",
+    "more_info": "The goods and services tax (GST) is a value-added tax levied on most goods and services sold for domestic consumption. The GST is paid by consumers, but it is remitted to the government by the businesses selling the goods and services. In effect, GST is indirect tax provides revenue for the government. In India it is a comprehensive, multi-stage, destination-based tax that is levied on every value addition.",
     "user_response": "None"
   },
   "3": {
-    "question": "The income from the sale of a machinery used in business is treated as?\n(a) Income from business and profession\n(b) Short-term capital gain\n(c) Long-term capital gain\n(d) Income from other sources\n",
+    "question": "In India, GST became active from which date?\n(a) 1st April, 2017\n(b) 1st January, 2017\n(c) 1st July, 2017\n(d) 1st March, 2017\n",
+    "answer": "c",
+    "more_info": "The Goods and Service Tax Act was passed in the Parliament on 29th March 2017. The Act came into effect on 1st July 2017. It is an Indirect Tax which has replaced many Indirect Taxes in India.",
+    "user_response": "None"
+  },
+  "4": {
+    "question": "Indian GST model has a ____ rate structure.\n(a) 3\n(b) 4\n(c) 5\n(d) 6\n",
     "answer": "b",
-    "more_info": "https://turbotax.intuit.com/tax-tips/investments-and-taxes/guide-to-short-term-vs-long-term-capital-gains-taxes-brokerage-accounts-etc/L7KCu9etn",
+    "more_info": "In India GST model has 4 basic rate structure. They are 5%, 12%, 18% and 28%",
+    "user_response": "None"
+  },
+  "5": {
+    "question": "How many types of taxes are there in Indian GST?\n(a) 2\n(b) 3\n(c) 4\n(d) 5\n",
+    "answer": "b",
+    "more_info": "There are three types of taxes :\n1. State GST (SGST)/Union Territory GST (UTGST),\n2. Central GST (CGST) and\n3. Integrated GST (IGST) ",
     "user_response": "None"
   }
 }

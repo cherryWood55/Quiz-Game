@@ -2,31 +2,31 @@
   "1": {
     "question": "The Indian National Congress was founded by:\n(a) A.O.Hume\n(b) Bal Gangadhar Tilak\n(c) Motilal Nehru\n(d) Surendranath Banerjee\n",
     "answer": "a",
-    "more_info": "https://en.wikipedia.org/wiki/Allan_Octavian_Hume",
+    "more_info": "On 28 December 1885, the Indian National Congress was founded at Gokuldas Tejpal Sanskrit College in Bombay, with 72 delegates in attendance. Hume assumed office as the General Secretary, and Womesh Chunder Bonnerjee of Calcutta was elected President.",
     "user_response": "None"
   },
   "2": {
     "question": "The author of 'Poverty and Un-British Rule in India is\n(a) R. C. Dutt\n(b) Dadabhai Naoroji\n(c) Lala Lajpat Rai\n(d) Surendra Nath Banerjee\n",
     "answer": "b",
-    "more_info": "https://en.wikipedia.org/wiki/Dadabhai_Naoroji",
+    "more_info": "In 1867, Dadabhai Naoroji put forward the 'drain of wealth' theory in which he stated that the Britain was completely draining India. He mentioned this theory in his book Poverty and Un-British Rule in India.",
     "user_response": "None"
   },
   "3": {
-    "question": "Who among the following was popularly known as the ‘Frontier Gandhi’?\n(a) Hasrat Mohani\n(b) Maulana Abul Kalam Azad\n(c) Khan Abdul Ghaffar Khan\n(d) Iqbal Khan\n",
+    "question": "Who among the following was popularly known as the Frontier Gandhi?\n(a) Hasrat Mohani\n(b) Maulana Abul Kalam Azad\n(c) Khan Abdul Ghaffar Khan\n(d) Iqbal Khan\n",
     "answer": "c",
-    "more_info": "https://en.wikipedia.org/wiki/Abdul_Ghaffar_Khan",
+    "more_info": "Khan Abdul Ghaffar Khan, leader of the Pukhtuns, was given the sobriquet of 'Sarhadi Gandhi' by his followers in reference to his commitment to the freedom struggle and non-violence. Ghaffar Khan was a great admirer of Mahatma Gandhi.",
     "user_response": "None"
   },
   "4": {
     "question": "When did the First World War begin? \n(a) 28th July 1914\n(b) 20th July 1913\n(c) 28th May 1900\n(d) 28th June 1914\n",
     "answer": "a",
-    "more_info": "https://en.wikipedia.org/wiki/World_War_I",
+    "more_info": "World War I, also known as the First World War, the Great War, and initially in North America as the European War, was a global war originating in Europe that lasted from 28 July 1914 to 11 November 1918.",
     "user_response": "None"
   },
   "5": {
-    "question": "When did the First World War end? \n(a) 11th November 1918\n(b) 20th July 1913\n(c) 11th November 1915\n(d) 10th June 1914\n",
-    "answer": "a",
-    "more_info": "https://en.wikipedia.org/wiki/World_War_I",
+    "question": "In the eighteenth century, which king was regarded as 'the most dangerous rival' in Mysore by the British? \n(a) Banda Bahadur\n(b) Ahmed Shah Abdali\n(c) Shah Alam II\n(d) Hyder Ali\n",
+    "answer": "d",
+    "more_info": "Hyder Ali was the Sultan and de facto ruler of the Kingdom of Mysore in southern India. Born as Sayyid wal Sharif Hyder Ali Khan, he distinguished himself militarily, eventually drawing the attention of Mysore's rulers.",
     "user_response": "None"
   }
 }
