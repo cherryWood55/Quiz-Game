@@ -18,7 +18,7 @@ def score_one_result(key, meta):
     actual = meta["answer"]
     if meta["user_response"].lower() == actual.lower():
         print("Q.{0} Absolutely Correct!\n".format(key))
-        return 5
+        return 2
     else:
         print("Q.{0} Incorrect!".format(key))
         print("Right Answer is ({0})".format(actual))
@@ -28,13 +28,13 @@ def score_one_result(key, meta):
 
 def test(questions):
     score = 0
-    print("General Instructions:\n1. Please enter only the choice number corresponding to the correct answer.\n2. Each question carries 5 points\n3. Wrong anwer leads to -1 marks per question\nGood Luck!\n")
+    print("General Instructions:\n1. Please enter only the choice number corresponding to the correct answer.\n2. Each question carries 2 points\n3. Wrong anwer leads to -1 marks per question\nGood Luck!\n")
     for key, meta in questions.items():
         questions[key]["user_response"] = ask_one_question(meta["question"])
     print("\n***************** RESULT ********************\n")
     for key, meta in questions.items():
         score += score_one_result(key, meta)
-    print("Your Score:", score, "/", (5 * len(questions)))
+    print("Your Score:", score, "/", (2 * len(questions)))
 
 def load_question(filename):
     """
