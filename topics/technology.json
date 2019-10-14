@@ -2,25 +2,31 @@
     "1": {
       "question": "Which one of the following is a coding language also known as a term for coffee?\n(a) Java\n(b) Joe\n(c) CoffeeBean\n(d) None of the above\n",
       "answer": "a",
-      "more_info": "https://en.wikipedia.org/wiki/Java_(programming_language)",
+      "more_info": "Java was designed to have the look and feel of the C++ programming language, but is simpler to use and enforces an object-oriented programming model. Java can be used to create complete applications that may run on a single computer or be distributed among servers and clients in a network.",
       "user_response": "None"
     },
     "2": {
       "question": "Which was the world's first successful electronic computer?\n(a) PARAM\n(b) CRAY-1\n(c) Pascaline\n(d) ENIAC (Electronic Numerical Integrator And Computer)\n",
       "answer": "d",
-      "more_info": "https://en.wikipedia.org/wiki/ENIAC",
+      "more_info": "Electronic Numerical Integrator and Calculator was the first electronic general-purpose computer. It was Turing-complete, digital and able to solve 'a large class of numerical problems' through reprogramming.",
       "user_response": "None"
     },
     "3": {
       "question": "How is the quality of a printer measured?\n(a) Alphabet per strike\n(b) Words per Inch\n(c) Strike per Inch\n(d) Dots per Inch\n",
       "answer": "d",
-      "more_info": "https://en.wikipedia.org/wiki/Dots_per_inch",
+      "more_info": "In printing, DPI (dots per inch) refers to the output resolution of a printer or imagesetter, and PPI (pixels per inch) refers to the input resolution of a photograph or image. DPI refers to the physical dot density of an image when it is reproduced as a real physical entity, for example printed onto paper.",
       "user_response": "None"
     },
     "4": {
       "question": "Who developed Yahoo?\n(a) Dennis Ritchie & Ken Thompson\n(b) David Filo & Jerry Yang\n(c) Vint Cerf & Robert Kahn\n(d) Steve Case & Jeff Bezos\n",
       "answer": "b",
-      "more_info": "https://en.wikipedia.org/wiki/History_of_Yahoo!",
+      "more_info": "Yahoo! was started at Stanford University. It was founded in January 1994 by Jerry Yang and David Filo, who were Electrical Engineering graduate students when they created a website named 'Jerry and David's Guide to the World Wide Web'. ",
+      "user_response": "None"
+    },
+    "5": {
+      "question": "Which is the latest version of Android?\n(a) Oreo\n(b) Nougat\n(c) Pie\n(d) Lollipop\n",
+      "answer": "c",
+      "more_info": "The Latest Version of Android is 9.0, Pie. The initial version of Android Pie (9.0) was released on August 6, 2018 on Pixel devices. ",
       "user_response": "None"
     }
   }
