@@ -35,8 +35,15 @@ A simple quiz game built using Python
     Amitrajit Bose
     Dave Van Fleet
     David John Coleman II
-    Ryan Wilson
+    Ryan J. Wilson
+    Candace H-V
     Souvik Mondal
-    Xacrolyte
-    pasanjayawickrama
+    Prem Mali
+    Aayush Sarkar
+    Raghav Khullar
+    Pasan Jayawickrama
+    Linda Oglesbee
+    Kamuish
+    chanchalv18
+    dvfleet413
 ```
