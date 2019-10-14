@@ -14,9 +14,9 @@ A simple quiz game built using Python
 (b) Exit.
 
 4. Pick your interest
-(a) Science, (b) History of India, (c) Commerce, (d)Technology (e)World GK 
+        (a) Science, (b) History of India, (c) Commerce, (d)Technology (e)World GK 
 
-        You'll be presented by domain specific questions.
+ You'll be presented by domain specific questions.
 
 5. Read the general instructions prompt for point system information and how to answer the questions. Each question carries 2 points and there is a negative marking of -1 per question.
 
