@@ -1,26 +1,32 @@
 {
   "1": {
-  "question": "Which one of the following is India's permanent research station in Antarctica?\n(a) Ganga\n(b) Agni\n(c) Maitri\n(d) None of the above\n",
-  "answer": "c",
-  "more_info": "https://en.wikipedia.org/wiki/Indian_Antarctic_Program",
+  "question": "What is another name for Vitamin K?\n(a) Nicotinic acid\n(b) Riboflavin\n(c) Thiamine\n(d) 2 Methyl-1, 4-naphthoquinone\n",
+  "answer": "d",
+  "more_info": "Vitamin K is a group of structurally similar, fat-soluble vitamins found in foods and in dietary supplements. The human body requires vitamin K for complete synthesis of certain proteins that are needed for blood coagulation or for controlling binding of calcium in bones and other tissues.",
   "user_response": "None"
   },
   "2": {
   "question": "Identify India's first indigenous Satellite Launch Vehicle (SLV):\n(a)SLV-1\n(b)PSLV\n(c)SLV-3\n(d)GSLV\n",
   "answer": "c",
-  "more_info": "https://en.wikipedia.org/wiki/Satellite_Launch_Vehicle",
+  "more_info": "ISRO built India's first satellite, Aryabhata, which was launched by the Soviet Union on 19 April 1975. It was named after the mathematician Aryabhata. In 1980, Rohini became the first satellite to be placed in orbit by an Indian-made launch vehicle, SLV-3.",
   "user_response": "None"
   },
   "3": {
-  "question": "Where is India's Central Rice Research Institue located?\n(a)Bengaluru\n(b)Kanpur\n(c)Coimbatore\n(d)Cuttack\n",
-  "answer": "d",
-  "more_info": "https://en.wikipedia.org/wiki/Central_Rice_Research_Institute",
+  "question": "Which hormone controls blood pressure?\n(a) Vasopressin\n(b) Oestrogen\n(c) Oxytocin\n(d) Testosterone\n",
+  "answer": "a",
+  "more_info": "Vasopressin is a man-made form of a hormone called 'anti-diuretic hormone' that is normally secreted by the pituitary gland. Vasopressin acts on the kidneys and blood vessels. Vasopressin helps prevent loss of water from the body by reducing urine output and helping the kidneys reabsorb water into the body.",
   "user_response": "None"
   },
   "4": {
-  "question": "In which year ISRO was founded?\n(a)1969\n(b)1972\n(c)1968\n(d)1970\n",
-  "answer": "a",
-  "more_info": "https://en.wikipedia.org/wiki/Indian_Space_Research_Organisation",
+  "question": "Who provided the first information regarding the Black Hole?\n(a) Copernicus\n(b) Herman Bondy\n(c) Rutherford\n(d) S. Chandrasekhar\n",
+  "answer": "d",
+  "more_info": "In 1931, the astrophysicist Subrahmanyan Chandrasekhar theorised that a star would not form a stable white dwarf at the end of its life if its mass was greater than 1.44 times the solar mass (1.44 Ms). This is known as the Chandrasekhar limit, above which the white dwarf will explode as what is called a 'Type 1a supernova'. This work fetched Chandrasekhar the Nobel Prize in 1983. His work led to current theory of Black Hole. A black hole is a region of space time from which gravity prevents anything, including light, from escaping. The hole is called 'black' because it absorbs all the light that hits the horizon, reflecting nothing, just like a perfect black body in thermodynamics In 1931, Subrahmanyan Chandrasekhar calculated, using special relativity, that a non-rotating body of electron-degenerate matter above a certain limiting mass (now called the Chandrasekhar limit at 1.4 solar masses) has no stable solutions.",
   "user_response": "None"
-  }
+  },
+  "5": {
+    "question": "How do biocides work??\n(a) Control the multiplication of insects\n(b) Kill the insects\n(c) Manage the original form of material\n(d) Control the bacteria\n",
+    "answer": "d",
+    "more_info": "Biocidal products are intended to destroy, render harmless, prevent the action of, or otherwise exert a controlling effect on any harmful organism by chemical or biological means.",
+    "user_response": "None"
+    }
 }

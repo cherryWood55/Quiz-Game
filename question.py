@@ -29,7 +29,7 @@ def score_one_result(key, meta):
 
 def test(questions):
     score = 0
-    print("General Instructions:\n1. Please enter only the choice number corresponding to the correct answer.\n2. Each question carries 2 points\n3. Wrong anwer leads to -1 marks per question\nGood Luck!\n")
+    print("General Instructions:\n1. Please enter only the choice number corresponding to the correct answer.\n2. Each question carries 2 points\n3. Wrong answer leads to -1 marks per question\nGood Luck!\n")
     time.sleep(10)
     for key, meta in questions.items():
         questions[key]["user_response"] = ask_one_question(meta["question"])
