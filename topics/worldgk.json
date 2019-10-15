@@ -28,5 +28,23 @@
     "answer": "a",
     "more_info": "https://en.wikipedia.org/wiki/Tea",
     "user_response": "None"
+  },
+  "6": {
+    "question": "Earth day is celebrated on?\n(a)September 17\n(b)February 16\n(c)April 4\n(d)April 22\n",
+    "answer": "d",
+    "more_info": "https://www.earthday.org/about/the-history-of-earth-day/",
+    "user_response": "None"
+  },
+  "7": {
+    "question": "Where the headquaters of World Wide Fund for Nature (WWF) located?\n(a)Canada\n(b)Switzerland\n(c)Germany\n(d)USA\n",
+    "answer": "b",
+    "more_info": "https://en.wikipedia.org/wiki/World_Wide_Fund_for_Nature",
+    "user_response": "None"
+  },
+  "8": {
+    "question": "Which country is the largest producer of cotton?\n(a)India\n(b)Pakistan\n(c)Brazil\n(d)China\n",
+    "answer": "d",
+    "more_info": "https://www.worldatlas.com/articles/top-cotton-producing-countries-in-the-world.html",
+    "user_response": "None"
   }
 }
