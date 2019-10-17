@@ -33,7 +33,6 @@ A simple quiz game built using Python
 ```
     Diya Nag Chaudhury
     Amitrajit Bose
-    Dave Van Fleet
     David John Coleman II
     Ryan J. Wilson
     Candace H-V
