@@ -50,13 +50,43 @@
     "9": {
       "question": "Which of the following is not an operating system\n(a) DOS\n(b) Mac\n(c) C\n(d) Linux\n",
       "answer": "c",
-      "more_info": "C is a programming language and not an operating system ",
+      "more_info": "C is a programming language and not an operating system. ",
       "user_response": "None"
     },
     "10": {
       "question": "1024 bit is equal to how many byte\n(a) 1Byte\n(b) 128Byte\n(c) 32Byte\n(d) 64Byte\n",
       "answer": "b",
-      "more_info": "1024 bit are 128byte. Therefore is one byte eight bit",
+      "more_info": "1024 bit are 128byte. Therefore is one byte eight bit. ",
+      "user_response": "None"
+    },
+    "11": {
+      "question": ".gif is an extension of \n(a) Image file\n(b) Video file\n(c) Audio file\n(d) word file\n",
+      "answer": "a",
+      "more_info": "gif stands for Graphics Interchange Format. ",
+      "user_response": "None"
+    },
+    "12": {
+      "question": "Where is the headquter of Microsoft office located\n(a) Texas\n(b) NewYork\n(c) California\n(d) Washington\n",
+      "answer": "d",
+      "more_info": "The Mircosoft HQ is located in Washington. ",
+      "user_response": "None"
+    },
+    "13": {
+      "question": "Mac Operating System is developed by which company\n(a) IBM\n(b) Apple\n(c) Microsoft\n(d) Samsung\n",
+      "answer": "b",
+      "more_info": "The desktop operating system macOS, formerly Mac OS X and OS X is developed by Apple. ",
+      "user_response": "None"
+    },
+    "14": {
+      "question": "Which of the following is not a database management software\n(a) MySQL\n(b) Oracle\n(c) Sybase\n(d) COBOL\n",
+      "answer": "d",
+      "more_info": "COBOL is a programming language and not an management software. ",
+      "user_response": "None"
+    },
+    "15": {
+      "question": "a Firewall is used for\n(a) Security\n(b) Data Transmission\n(c) 32Byte\n(d) 64Byte\n",
+      "answer": "a",
+      "more_info": "A firewall protects a network from unwanted network access. ",
       "user_response": "None"
     }
   }
