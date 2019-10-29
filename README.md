@@ -14,7 +14,7 @@ A simple quiz game built using Python
 (b) Exit.
 
 4. Pick your interest
-        (a) Science (b) History of India (c) Commerce (d)Technology (e)World GK 
+        (1) Science (2) History of India (3) Commerce (4)Technology (5)World GK 
 
     You'll be presented with domain specific questions.
 
