@@ -45,4 +45,5 @@ A simple quiz game built using Python
     Kamuish
     chanchalv18
     dvfleet413
+    Manan311
 ```
