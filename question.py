@@ -7,7 +7,7 @@ TOPICS_LIST = ['science', 'history', 'commerce', 'technology', 'worldgk']
 
 def ask_one_question(question):
     print("\n" + question)
-    choice = input("Enter Choice [a/b/c/d]: ")
+    choice = input("Enter Your Choice [a/b/c/d]: ")
     while(True):
         if choice.lower() in ['a', 'b', 'c', 'd']:
             return choice
@@ -29,7 +29,7 @@ def score_one_result(key, meta):
 
 def test(questions):
     score = 0
-    print("General Instructions:\n1. Please enter only the choice number corresponding to the correct answer.\n2. Each question carries 2 points\n3. Wrong answer leads to -1 marks per question\nGood Luck!\n")
+    print("General Instructions:\n1. Please enter only the choice letter corresponding to the correct answer.\n2. Each question carries 2 points\n3. Wrong answer leads to -1 marks per question\nQuiz will start momentarily. Good Luck!\n")
     time.sleep(10)
     for key, meta in questions.items():
         questions[key]["user_response"] = ask_one_question(meta["question"])
@@ -51,7 +51,7 @@ def load_question(filename):
 def play_quiz():
     flag = False
     try:
-        choice = int(input("Welcome to Today's Quiz!\nChoose your domain of interest:\n(1). Science\n(2). History of India\n(3). Commerce\n(4). Technology\n(5). World Gk\n Enter your choice: "))
+        choice = int(input("Welcome to Today's Quiz!\nChoose your domain of interest:\n(1). Science\n(2). History of India\n(3). Commerce\n(4). Technology\n(5). World Gk\nEnter Your Choice [1/2/3/4/5]: "))
         if choice > len(TOPICS_LIST) or choice < 1:
             print("Invalid Choice. Enter Again")
             flag = True # raising flag
