@@ -30,7 +30,7 @@
       "user_response": "None"
     },
     "6": {
-      "question": "Which one is the first search engine in internet\n(a) Google\n(b) Archie\n(c) Nemo\n(d) Intel\n",
+      "question": "Which one was the first search engine on the internet\n(a) Google\n(b) Archie\n(c) Nemo\n(d) Intel\n",
       "answer": "b",
       "more_info": "One of the first search engines was archie(1990). Archie was a search engine designed specifically for indexing FTP archives. ",
       "user_response": "None"
@@ -48,7 +48,7 @@
       "user_response": "None"
     },
     "9": {
-      "question": "Which of the following is not an operating system\n(a) DOS\n(b) Mac\n(c) C\n(d) Linux\n",
+      "question": "Which of the following is not an operating system\n(a) DOS\n(b) macOS\n(c) C\n(d) Linux\n",
       "answer": "c",
       "more_info": "C is a programming language and not an operating system. ",
       "user_response": "None"
@@ -84,10 +84,220 @@
       "user_response": "None"
     },
     "15": {
-      "question": "a Firewall is used for\n(a) Security\n(b) Data Transmission\n(c) 32Byte\n(d) 64Byte\n",
+      "question": "A Firewall is used for\n(a) Security\n(b) Data Transmission\n(c) 32Byte\n(d) 64Byte\n",
       "answer": "a",
       "more_info": "A firewall protects a network from unwanted network access. ",
       "user_response": "None"
+    },
+    "16": {
+      "question": "Which of the following launched India's First Service Audio Service 'Suno'?\n(a) Netflix\n(b) Google\n(c) Audible\n(d) Facebook\n",
+      "answer": "c",
+      "more_info": "Audible, a part of e-commerce giant Amazon, on December 12 launched an India-first audio service 'Suno'. Audible Suno - which will be available via a separate Android app - provides free and advertising-free access to hundreds of hours of original audio entertainment in Hindi and English.",
+      "user_response": "None"
+    },
+    "17": {
+      "question": "Scientists from which institute have developed the biggest-ever computer chip using carbon nanotubes (CNT)- RV16XNano?\n(a) Yale\n(b) MIT\n(c) Harvard\n(d) Stanford\n",
+      "answer": "b",
+      "more_info": "Scientists at the Massachusetts Institute of Technology (MIT), Cambridge, USA, have developed the biggest-ever computer chip using carbon nanotubes (CNT)- RV16XNano. This was published in the journal Nature.RV16X-Nano is a 16-bit processor that contains 14,000 transistors - electronic switches. These switches are made up of CNT - tiny cylinders made of rolled-up, atom-thick sheets of graphene.",
+      "user_response": "None"
+    },
+    "18": {
+      "question": "Facebook launches cryptocurrency which allows users to make financial transactions across the globe. It's named as: \n(a) Dobil\n(b) Libra\n(c) Cryco\n(d) Digicy\n",
+      "answer": "b",
+      "more_info": "Facebook has announced a digital currency called Libra that will allow its billions of users to make financial transactions across the globe. Libra is being touted as a means to connect people who do not have access to traditional banking platforms. Technology to make transactions with Libra will be available as a standalone app - as well as on WhatsApp and Facebook Messenger platforms - as early as 2020.",
+      "user_response": "None"
+    },
+   "19": {
+      "question": "AntBot is the first walking robot to have navigational capabilities without GPS or mapping. Who designed it?: \n(a) NREC\n(b) University of Hertfordshire's Adaptive Systems Research Group\n(c) CNRS & AMU\n(d) The University of Tokyo\n",
+      "answer": "c",
+      "more_info":"AntBot is the first walking robot to have navigational capabilities without GPS or mapping. It has been designed by French National Centre for Scientific Research (CNRS) and Aix-Marseille University researchers at ISM, on lines similar to desert ants who use polarised lights and UV radiation to navigate in space. It consists of an optical compass which determines its movements by the help of a polarised light. An optical movement sensor directed to the sun is used to measure the distance covered. It provides a precision of up to 1 cm after covering a total distance of 14 metres. It has six feet to enhance mobility and facilitate movements in complex environments. Celestial compass is used to measure its heading with precision by cloudy or clear weather.",
+      "user_response": "None"
+    },
+    "20": {
+      "question": "Which protocol provides e-mail facility among different hosts: \n(a) FTP\n(b) TELNET\n(c) SMTP\n(d) SNMP\n",
+      "answer": "c",
+      "more_info": "SMTP (Simple Mail Transfer Protocol) is a TCP/IP protocol used in sending and receiving e-mail. However, since it is limited in its ability to queue messages at the receiving end, it is usually used with one of two other protocols, POP3 or IMAP that let the user save messages in a server mailbox and download them periodically from the server. SMTP usually is implemented to operate over Internet port 25. Many mail servers now support Extended Simple Mail Transfer Protocol (ESMTP), which allows multimedia files to be delivered as e-mail.",
+      "user_response": "None"
+    },
+    "21": {
+      "question": "The basic Architecture of a computer was designed by: \n(a)John Von Neumann\n(b) Charles Babbage\n(c) Blaise Pascal\n(d) Garden Moore\n",
+      "answer": "a",
+      "more_info": "In 1945, Professor J. von Neumann, who was then working at the Moore School of Engineering in Philadelphia, where the E.N.I.A.C. had been built, issued on behalf of a group of his co-workers, a report on the logical design of digital computers.",
+      "user_response": "None"
+    },
+    "22": {
+    "question": "Which of the following memories is volatile?: \n(a) EPROM\n(b) PROM\n(c) ROM\n(d) RAM\n",
+      "answer": "d",
+      "more_info": "RAM is normally associated with volatile types of memory (such as DRAM modules), where stored information is lost if power is removed",
+      "user_response": "None"
+    },
+    "23": {
+    "question": "AVI(Audio Video Interleave) format was developed by? \n(a) IBM\n(b) Microsoft\n(c) Adobe\n(d) Apple\n",
+      "answer": "b",
+      "more_info": "Audio Video Interleave (also Audio Video Interleaved), known by its initials AVI, is a multimedia container format introduced by Microsoft in November 1992 as part of its Video for Windows software. AVI files can contain both audio and video data in a file container that allows synchronous audio-with-video playback",
+      "user_response": "None"
+    },
+    "24": {
+    "question": "What command is used to remove a directory on Linux?: \n(a) rdir\n(b) remove\n(c) rd\n(d) rmdir\n",
+      "answer": "d",
+      "more_info": "rmdir command is used remove empty directories from the filesystem in Linux. The rmdir command removes each and every directory specified in the command line only if these directories are empty.",
+      "user_response": "None"
+    },
+
+    "25": {
+    "question": "In a Javascript Application what function can be used to send messages to users requesting for a text input?: \n(a) Prompt()\n(b) Display()\n(c) GetOutpu()\n(d) Alert()\n",
+      "answer": "a",
+      "more_info": "The prompt() method displays a dialog box that prompts the visitor for input.",
+      "user_response": "None"
+    },
+    "26": {
+    "question": "Tegra, Tesla, GeForce and nForce are series for integrated chipsets from which company?: \n(a) AMD\n(b) Redpine\n(c) NVIDIA\n(d) Intel\n",
+      "answer": "c",
+      "more_info": "Nvidia Corporationcommonly referred to as Nvidia (officially written as NVIDIA and stylized in the logo as nVIDIA with the lowercase 'n' the same height as the uppercase 'VIDIA'; formerly stylized as nVIDIA with a large italicized lowercase 'n' on products from the mid 90s to early-mid 2000s), is an American technology company incorporated in Delaware and based in Santa Clara, California. It designs graphics processing units (GPUs) for the gaming and professional markets, as well as system on a chip units (SoCs) for the mobile computing and automotive market such as Tegra, Tesla, etc.",
+      "user_response": "None"
+    },
+    "27": {
+    "question": "What was the Predecessor of Wikipedia?: \n(a) WikiLeaks\n(b) Nupedia\n(c) Uncyclopedia\n(d) BritannicaOnline\n",
+      "answer": "b",
+      "more_info": "Using money from the dot.com BomisOffsite Link, on March 9, 2000 American entrepreneur Jimmy WalesOffsite Link founded the web-encyclopedia, NupediaOffsite Link in San Diego, California, hiring philosopher Larry SangerOffsite Link as editor-in-chief. Unlike Wikipedia, Nupedia was not a wiki; it was instead characterized by an extensive peer-review process, designed to make its articles of a quality comparable to that of professional encyclopedias.",
+      "user_response": "None"
+    },
+    "28": {
+    "question": "In which year ‘@’ sign was first chosen for its use in e-mail address: \n(a) 1972\n(b) 1977\n(c) 1980\n(d) 1976\n",
+      "answer": "a",
+      "more_info": "Ray Tomlinson is credited with inventing email in 1972. Like many of the Internet inventors, Tomlinson worked for Bolt Beranek and Newman as an ARPANET contractor. He picked the @ symbol from the computer keyboard to denote sending messages from one computer to another. So then, for anyone using Internet standards, it was simply a matter of nominating name-of-the-user@name-of-the-computer. Internet pioneer Jon Postel, who we will hear more of later, was one of the first users of the new system, and is credited with describing it as a 'nice hack'. It certainly was, and it has lasted to this day.",
+      "user_response": "None"
+    },
+    "29": {
+      "question": "What is the maximum number of Primary Partitions that can be created on a Hard-disk\n(a) 2\n(b) 4\n(c) 3\n(d) 1\n",
+      "answer": "b",
+      "more_info": "On a disk using the traditional MBR format, the partition table has four slots. Each can hold a 'primary' partition, or one can be used to create an 'extended' partition which can contain any number of sub-partitions (often called 'logical drives').",
+      "user_response": "None"
+    },
+    "30": {
+      "question": "Total number of pins in a traditional parallel port is: \n(a) 5\n(b) 14\n(c) 25\n(d) 27\n",
+      "answer": "c",
+      "more_info": "A standard parallel port connector has two rows of 25 total pins surrounded by a metal casing. It is roughly an inch in width and has two screw-in connectors to keep the cable in place.",
+      "user_response": "None"
+    },
+    "31": {
+      "question": "What does FLOPS measure?: \n(a) Floating Point Operations\n(b) Oscillation Frequency\n(c) Foreign Access Attempts\n(d) Network Hops\n",
+      "answer": "a",
+      "more_info": "FLOPS stands for 'Floating Point Operations Per Second' and are typically used to measure the performance of a computer's processor. While clock speed, which is measured in megahertz, is often seen as an indicator or a processor's speed, it does not define how many calculations a processor can perform per second.",
+      "user_response": "None"
+    },
+    "32": {
+      "question": "JSON is often viewed as an alternative to what language?: \n(a) JSP\n(b) PHP\n(c) HTML\n(d) XML\n",
+      "answer": "d",
+      "more_info": "JSON is a text-based data interchange format designed for transmitting structured data. It is most commonly used for transferring data between web applications and web servers. JSON is often viewed as an alternative to XML, another plain text data interchange format. In most cases, the JSON representation of an object is more compact than the XML representation because it does not require tags for each element.",
+      "user_response": "None"
+    },
+    "33": {
+      "question": "Which person selects and configures computers for an organization?: \n(a) System Administrator\n(b) End User\n(c) Webmaster\n(d) System Analyst\n",
+      "answer": "d",
+      "more_info": "A system analyst is the person who selects and configures computer systems for an organization or business. His or her job typically begins with determining the intended purpose of the computers. This means the analyst must understand the general objectives of the business, as well as what each individual user's job requires. Once the system analyst has determined the general and specific needs of the business, he can choose appropriate systems that will help accomplish the goals of the business.",
+      "user_response": "None"
+    },
+    "34": {
+      "question": "UTF-8 and UTF-16 are different versions of what type of character encoding?: \n(a) ASCII\n(b) Unicode\n(c) Latin\n(d) Binary\n",
+      "answer": "b",
+      "more_info": "Both UTF-8 and UTF-16 are variable length encoding, where number of bytes used depends upon Unicode code points. On the other hand UTF-32 is fixed width encoding, where each code point takes 4 bytes.",
+      "user_response": "None"
+    },
+    "35": {
+      "question": "<body> and <head> are examples of what?: \n(a) HTML tags\n(b) HTML Functions\n(c) HTML formats\n(d) HTML protocols\n",
+      "answer": "a",
+      "more_info": "An HTML file is divided into two basic sections: the head and the body, each demarcated by their respective tags. ",
+      "user_response": "None"
+    },
+    "36": {
+      "question": "ECC is a type of what hardware component?: \n(a) CPU\n(b) SSD\n(c) HDD\n(d) RAM\n",
+      "answer": "d",
+      "more_info": "EEC stands for 'Error Correction Code.' ECC is used to verify data transmissions by locating and correcting transmission errors. It is commonly used by RAM chips that include forward error correction (FEC), which ensures all the data being sent to and from the RAM is transmitted correctly.",
+      "user_response": "None"
+    },
+    "37": {
+      "question": "El Capitan was a refinement to what previous version of Apple's desktop OS?: \n(a) Mojave\n(b) Sierra\n(c) Yosemite\n(d) High Sierra\n",
+      "answer": "d",
+      "more_info": "El Capitan is the 12th version of Apple OS X, also known as OS X 10.11. It was released on September 30, 2015 and succeeded OS X 10.10 Yosemite. It was followed by OS X 10.12 Sierra.",
+      "user_response": "None"
+    },
+    "38": {
+      "question": "Which Windows technology was developed to take advantage of a computer's GPU?: \n(a) NTFS\n(b) WDDM\n(c) ActiveX\n(d) WINS\n",
+      "answer": "b",
+      "more_info": "WDDM stands for 'Windows Display Driver Model'. WDDM is a display driver architecture introduced with Windows Vista. It improves graphics performance over the previous Windows XP architecture by more fully utilizing a computer's GPU to render system graphics.",
+      "user_response": "None"
+    },
+    "39": {
+      "question": "A command-line interface may also be called what?: \n(a) GUI\n(b) Shell\n(c) NUI\n(d) Portal\n",
+      "answer": "b",
+      "more_info": "A shell is a software program that interprets commands from the user so that the operating system can understand them and perform the appropriate functions. The shell is a command-line interface, which means it is soley text-based. The user can type commands to perform functions such as run programs, open and browse directories, and view processes that are currently running. Since the shell is only one layer above the operating system,",
+      "user_response": "None"
+    },
+    "40": {
+      "question": "How many terminals does a diode have?: \n(a) 2\n(b) 1\n(c) 3\n(d) 4\n",
+      "answer": "a",
+      "more_info": "A diode is an electrical component designed to conduct electric current in only one direction. It has two ends (or terminals), each with an electrode of a different charge. The 'anode' end has a positive charge relative to the negatively charged 'cathode' end. Current naturally flows in the direction from the anode to the cathode.",
+      "user_response": "None"
+    },
+    "41": {
+      "question": "A file server is an example of what?: \n(a) Saas\n(b) NAS\n(c) BIOS\n(d) WINS\n",
+      "answer": "b",
+      "more_info": "NAS stands for 'Network Attached Storage'. A typical computer stores data using internal and external hard drives. If the computer is connected to a network, it can share data on its connected hard drives with other systems on the network. While this allows multiple computers to send data back and forth, it requires that each computer share its files individually.",
+      "user_response": "None"
+    },
+    "42": {
+      "question": "Which of the following statements about the Enum data type is true?: \n(a) It is the most efficient way to store integers.\n(b) It cannot store strings.\n(c) It may contain a list of specific values.\n(d) It is meant specifically for binary data.\n",
+      "answer": "c",
+      "more_info": "Enum, short for 'enumerated', is a data type that consists of predefined values. A constant or variable defined as an enum can store one of the values listed in the enum declaration.",
+      "user_response": "None"
+    },
+    "43": {
+      "question": "What purpose does a URI serve?: \n(a) It provides a standard way to locate files.\n(b) It prevents files from being accidentally deleted.\n(c) It translates binary file data into plain text.\n(d) It associates a default program with a file type.\n",
+      "answer": "a",
+      "more_info": "URI stands for 'Uniform Resource Identifier'. A URI identifies the name and location of a file or resource in a uniform format. It includes a string of characters for the filename and may also contain the path to the directory of the file. URIs provide a standard way for resources to be accessed by other computers across a network or over the World Wide Web.",
+      "user_response": "None"
+    },
+    "44": {
+      "question": "Large amounts of data used in enterprise settings is also called what?: \n(a) Fat data\n(b) Big data\n(c) Bulk Data\n(d) Heavy data\n",
+      "answer": "b",
+      "more_info": "The phrase 'big data' is often used in enterprise settings to describe large amounts of data. It does not refer to a specific amount of data, but rather describes a dataset that cannot be stored or processed using traditional database software.",
+      "user_response": "None"
+    },
+    "45": {
+      "question": "DNS translates domain names into what type of address?: \n(a) Localhost\n(b) Hostname\n(c) IP Address\n(d) MAC Address\n",
+      "answer": "c",
+      "more_info": "DNS stands for 'Domain Name System' Domain names serve as memorizable names for websites and other services on the Internet. However, computers access Internet devices by their IP addresses. DNS translates domain names into IP addresses, allowing you to access an Internet location by its domain name.",
+      "user_response": "None"
+    },
+    "46": {
+      "question": "Which operating system is used as the basis of most open source OSes?: \n(a) Linux\n(b) MacOS\n(c) Windows\n(d) BeOS\n",
+      "answer": "a",
+      "more_info": "Linux is a Unix-like operating system (OS) created by Linus Torvalds. He developed Linux because he wasn't happy with the currently available options in Unix and felt he could improve it. So he did what anybody else would do, and created his own operating system.When Linus finished building a working version of Linux, he freely distributed the OS, which helped it gain popularity.Linux is available in several distributions. Some of the most popular distributions include Red Hat Enterprise, CentOS, Debian, openSUSE, and Ubuntu. Linux also supports several hardware platforms, including Intel, PowerPC, DEC Alpha, Sun Sparc, and Motorola. Since Linux is compatible with so many types of hardware, variations of the Linux operating system are used for several other electronic devices besides computers.",
+      "user_response": "None"
+    },
+    "47": {
+      "question": "Which of the following is typically stored in the ROM of a hardware device?: \n(a) Spyware\n(b) Freeware\n(c) Shreware\n(d) Firmware\n",
+      "answer": "d",
+      "more_info": "Firmware is a software program or set of instructions programmed on a hardware device. It provides the necessary instructions for how the device communicates with the other computer hardware. Firmware is typically stored in the flash ROM of a hardware device. While ROM is 'read-only memory', flash ROM can be erased and rewritten because it is actually a type of flash memory.",
+      "user_response": "None"
+    },
+    "48": {
+      "question": "What type of technology does the MPEG organization develop and maintain?: \n(a) Lossless image formats\n(b) Compressed video formats\n(c) Streaming media protocols\n(d) Video conferencing standards\n",
+      "answer": "b",
+      "more_info": "MPEG stands for 'Moving Picture Experts Group'. MPEG is an organization that develops standards for encoding digital audio and video. It works with the International Organization for Standardization (ISO) and the International Electrotechnical Commission (IEC) to ensure media compression standards are widely adopted and universally available.",
+      "user_response": "None"
+    },
+    "49": {
+      "question": "Instead of pixels, vector graphics are comprised of what?: \n(a) Dots\n(b) Bitmaps\n(c) Blocks\n(d) Paths\n",
+      "answer": "d",
+      "more_info": "Unlike JPEGs, GIFs, and BMP images, vector graphics are not made up of a grid of pixels. Instead, vector graphics are comprised of paths, which are defined by a start and end point, along with other points, curves, and angles along the way. A path can be a line, a square, a triangle, or a curvy shape. These paths can be used to create simple drawings or complex diagrams. Paths are even used to define the characters of specific typefaces.",
+      "user_response": "None"
+    },
+    "50": {
+      "question": "What kind of display may neeed to be occasionally degaussed?: \n(a) LCD\n(b) LED\n(c) CRT\n(d) Plasma\n",
+      "answer": "c",
+      "more_info": "Degaussing is the process of reducing a magnetic field. It can be used to reset the magnetic field of a CRT monitor or to destroy the data on a magnetic storage devices. A CRT monitor displays images by firing electrons through a cathode ray tube (CRT) onto the screen. The electron beams are focused by a plate near the screen called a shadow mask. If this plate becomes unevenly magnetized by surrounding objects or simply the earth's magnetic field, it can cause discoloration on the screen. Therefore, CRT monitors often include a 'Degauss' command that resets the magnetic field when run. Since it is impossible to eliminate the magnetic charge inside the monitor, the degaussing process realigns or randomizes the magnetic field, which provides consistent colors across the screen.",
+      "user_response": "None"
     }
-  }
-  
+}  

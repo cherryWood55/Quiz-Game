@@ -1,32 +1,123 @@
 {
   "1": {
-  "question": "What is another name for Vitamin K?\n(a) Nicotinic acid\n(b) Riboflavin\n(c) Thiamine\n(d) 2 Methyl-1, 4-naphthoquinone\n",
-  "answer": "d",
-  "more_info": "Vitamin K is a group of structurally similar, fat-soluble vitamins found in foods and in dietary supplements. The human body requires vitamin K for complete synthesis of certain proteins that are needed for blood coagulation or for controlling binding of calcium in bones and other tissues.",
-  "user_response": "None"
+    "question": "What is another name for Vitamin K?\n(a) Nicotinic acid\n(b) Riboflavin\n(c) Thiamine\n(d) 2 Methyl-1, 4-naphthoquinone\n",
+    "answer": "d",
+    "more_info": "Vitamin K is a group of structurally similar, fat-soluble vitamins found in foods and in dietary supplements. The human body requires vitamin K for complete synthesis of certain proteins that are needed for blood coagulation or for controlling binding of calcium in bones and other tissues.",
+    "user_response": "None"
   },
   "2": {
-  "question": "Identify India's first indigenous Satellite Launch Vehicle (SLV):\n(a)SLV-1\n(b)PSLV\n(c)SLV-3\n(d)GSLV\n",
-  "answer": "c",
-  "more_info": "ISRO built India's first satellite, Aryabhata, which was launched by the Soviet Union on 19 April 1975. It was named after the mathematician Aryabhata. In 1980, Rohini became the first satellite to be placed in orbit by an Indian-made launch vehicle, SLV-3.",
-  "user_response": "None"
+    "question": "Identify India's first indigenous Satellite Launch Vehicle (SLV):\n(a)SLV-1\n(b)PSLV\n(c)SLV-3\n(d)GSLV\n",
+    "answer": "c",
+    "more_info": "ISRO built India's first satellite, Aryabhata, which was launched by the Soviet Union on 19 April 1975. It was named after the mathematician Aryabhata. In 1980, Rohini became the first satellite to be placed in orbit by an Indian-made launch vehicle, SLV-3.",
+    "user_response": "None"
   },
   "3": {
-  "question": "Which hormone controls blood pressure?\n(a) Vasopressin\n(b) Oestrogen\n(c) Oxytocin\n(d) Testosterone\n",
-  "answer": "a",
-  "more_info": "Vasopressin is a man-made form of a hormone called 'anti-diuretic hormone' that is normally secreted by the pituitary gland. Vasopressin acts on the kidneys and blood vessels. Vasopressin helps prevent loss of water from the body by reducing urine output and helping the kidneys reabsorb water into the body.",
-  "user_response": "None"
+    "question": "Which hormone controls blood pressure?\n(a) Vasopressin\n(b) Oestrogen\n(c) Oxytocin\n(d) Testosterone\n",
+    "answer": "a",
+    "more_info": "Vasopressin is a man-made form of a hormone called 'anti-diuretic hormone' that is normally secreted by the pituitary gland. Vasopressin acts on the kidneys and blood vessels. Vasopressin helps prevent loss of water from the body by reducing urine output and helping the kidneys reabsorb water into the body.",
+    "user_response": "None"
   },
   "4": {
-  "question": "Who provided the first information regarding the Black Hole?\n(a) Copernicus\n(b) Herman Bondy\n(c) Rutherford\n(d) S. Chandrasekhar\n",
-  "answer": "d",
-  "more_info": "In 1931, the astrophysicist Subrahmanyan Chandrasekhar theorised that a star would not form a stable white dwarf at the end of its life if its mass was greater than 1.44 times the solar mass (1.44 Ms). This is known as the Chandrasekhar limit, above which the white dwarf will explode as what is called a 'Type 1a supernova'. This work fetched Chandrasekhar the Nobel Prize in 1983. His work led to current theory of Black Hole. A black hole is a region of space time from which gravity prevents anything, including light, from escaping. The hole is called 'black' because it absorbs all the light that hits the horizon, reflecting nothing, just like a perfect black body in thermodynamics In 1931, Subrahmanyan Chandrasekhar calculated, using special relativity, that a non-rotating body of electron-degenerate matter above a certain limiting mass (now called the Chandrasekhar limit at 1.4 solar masses) has no stable solutions.",
-  "user_response": "None"
+    "question": "Who provided the first information regarding the Black Hole?\n(a) Copernicus\n(b) Herman Bondy\n(c) Rutherford\n(d) S. Chandrasekhar\n",
+    "answer": "d",
+    "more_info": "In 1931, the astrophysicist Subrahmanyan Chandrasekhar theorised that a star would not form a stable white dwarf at the end of its life if its mass was greater than 1.44 times the solar mass (1.44 Ms). This is known as the Chandrasekhar limit, above which the white dwarf will explode as what is called a 'Type 1a supernova'. This work fetched Chandrasekhar the Nobel Prize in 1983. His work led to current theory of Black Hole. A black hole is a region of space time from which gravity prevents anything, including light, from escaping. The hole is called 'black' because it absorbs all the light that hits the horizon, reflecting nothing, just like a perfect black body in thermodynamics In 1931, Subrahmanyan Chandrasekhar calculated, using special relativity, that a non-rotating body of electron-degenerate matter above a certain limiting mass (now called the Chandrasekhar limit at 1.4 solar masses) has no stable solutions.",
+    "user_response": "None"
   },
   "5": {
     "question": "How do biocides work??\n(a) Control the multiplication of insects\n(b) Kill the insects\n(c) Manage the original form of material\n(d) Control the bacteria\n",
     "answer": "d",
     "more_info": "Biocidal products are intended to destroy, render harmless, prevent the action of, or otherwise exert a controlling effect on any harmful organism by chemical or biological means.",
     "user_response": "None"
-    }
+  },
+  "6": {
+    "question": "Choose the  planet with longest duration of day.\n(a) Earth\n(b) Mercury\n(c) Venus\n(d) Mercury\n",
+    "answer": "c",
+    "more_info": "Venus exhibits a  backwards rotation. It completes one rotation in 243 Earth days — the longest day of any planet in our solar system, even longer than a whole year on Venus. But the Sun doesn't rise and set each day on Venus like it does on most other planets. On Venus, one day-night cycle takes 117 Earth days because Venus rotates in the direction opposite of its orbital revolution around the Sun.",
+    "user_response": "None"
+  },
+  "7": {
+    "question": "What is the actual name of our 'Moon'\n(a) Solaris\n(b) Selene\n(c) Luna\n(d) Luka\n",
+    "answer": "c",
+    "more_info": "In Latin, our satellite's name is 'Luna'. Because a significant chunk of English comes from Latin, many terms associated with the moon are related to this Latin name — for example, the adjective lunar, and the noun lunatic",
+    "user_response": "None"
+  },
+  "8": {
+    "question": "The most abundant organic molecule on the surface of the Earth is: \n(a) Haemoglobin\n(b) Cellulose\n(c) chitin\n(d) keratin\n",
+    "answer": "b",
+    "more_info": "Cellulose is the most abundant organic compound on Earth. It is the main constituent of plant fiber; plants contain on average 33% cellulose, and cotton is the purest form at 90%.",
+    "user_response": "None"
+  },
+  "9": {
+    "question": "The specific gravity of mercury at Standard Temperature and Pressure is: \n(a) 13.6\n(b) 19.3\n(c) 11.2\n(d) 0.75\n",
+    "asnswer": "a",
+    "more_info": "Gases are commonly compared with dry air, which has a density of 1.29 grams per litre  under so-called standard conditions (0 °C and a pressure of 1 standard atmosphere). As liquid mercury has a density of 13.6 kg per litre,  its specific gravity is 13.6.",
+    "user_response": "None"
+  },
+  "10": {
+    "question": "'Fool's gold' is a common name for this mineral: \n(a) halite\n(b) brass\n(c) magnetite\n(d) pyrite\n",
+    "answer": "d",
+    "more_info": "Pyrite is called 'Fool's Gold' because it resembles gold to the untrained eye. While pyrite has a brass-yellow color and metallic luster similar to gold, pyrite is brittle and will break rather than bend as gold does.",
+    "user_response": "None"
+  },
+  "11": {
+    "question": "What was the name of the first man-made space craft to orbit the Earth?: \n(a) Mir \n(b) Spektr-R\n(c) Sputnik\n(d) Apollo 1\n",
+    "answer": "c",
+    "more_info": "History changed on October 4, 1957, when the Soviet Union successfully launched Sputnik I. The world's first artificial satellite was about the size of a beach ball (58 cm.or 22.8 inches in diameter), weighed only 83.6 kg. or 183.9 pounds, and took about 98 minutes to orbit the Earth on its elliptical path. That launch ushered in new political, military, technological, and scientific developments. While the Sputnik launch was a single event, it marked the start of the space age and the U.S.-U.S.S.R space race.",
+    "user_response": "None"
+  },
+  "12": {
+    "question": "What is the mass in grams of one cubic centimeter of water? : \n(a) 1 gram\n(b) 18 gram\n(c) 1000 gram\n(d) 2 gram\n",
+    "answer": "a",
+    "more_info": "The density of water is 1 gram per cubic centimeter, thus 1 cubic centimeter of water must have a mass of 1 gram.",
+    "user_response": "None"
+  },
+  "13": {
+    "question": "Which famous physicist was born in the year Michelangelo died.: \n(a) Blaise Pascal\n(b) Wolfgang Pouli\n(c) Galileo Galilei\n(d) Joseph Proust\n",
+    "answer": "c",
+    "more_info": "Galileo was born in the same year as Shakespeare and on the day of Michelangelo's death. Appointed to the Chair of Mathematics at the University of Pisa when he was 25 his studies of motion there and later at Padua provided the foundation of the study of dynamics. His contributions to the the development of gravitational theory and motion were to terminally undermine the tenets of Aristotelian motion and physics.",
+    "user_response": "None"
+  },
+  "14": {
+    "question": "Yeast, used in making bread is a: \n(a) fungus\n(b) bacteria\n(c) plant\n(d) weed\n",
+    "answer": "a",
+    "more_info": "Yeasts are eukaryotic, single-celled microorganisms classified as members of the fungus kingdom. The first yeast originated hundreds of millions of years ago, and at least 1,500 species are currently recognized. They are estimated to constitute 1% of all described fungal species.",
+    "user_response": "None"
+  },
+  "15": {
+    "question": "The Statue of Liberty is green because of: \n(a) green painted steel\n(b) oxidized copper\n(c) oxidized brass\n(d) strontium metal\n",
+    "answer": "b",
+    "more_info": "When the Statue was unveiled in 1886, it was a shiny brown color, like a penny. By 1906, the color had changed to green. The reason the Statue of Liberty changed colors is that the outer surface is covered with hundreds of thin copper sheets. Copper gets oxidized by air forming a green coating called patina or verdigris.",
+    "user_response": "None"
+  },
+  "16": {
+    "question": "Seawater freezes at:  : \n(a) the same temperature as fresh water.\n(b) 18 at a slightly higher temperature than fresh water.\n(c) at a slightly lower temperature than fresh water.\n(d) at a slightly lower temperature than fresh water. \n",
+    "answer": "c",
+    "more_info": "cean water freezes just like freshwater, but at lower temperatures. Fresh water freezes at 32 degrees Fahrenheit but seawater freezes at about 28.4 degrees Fahrenheit , because of the salt in it. ... Sea water becomes more and more dense as it becomes colder, right down to its freezing point",
+    "user_response": "None"
+  },
+  "17": {
+    "question": "What substance was used as a moderator for the chain reaction in the first nuclear reactor?: \n(a) cadmium\n(b) boron\n(c) water\n(d) graphite\n",
+    "answer": "d",
+    "more_info": "Chicago Pile-1 (CP-1) was the world's first artificial nuclear reactor. On 2 December 1942, the first human-made self-sustaining nuclear chain reaction was initiated in CP-1, during an experiment led by Enrico Fermi. The reactor used natural uranium. This required a very large amount of material in order to reach criticality, along with graphite used as a neutron moderator. The reactor contained 45,000 ultra-pure graphite blocks weighing 360 short tons (330 t), and was fueled by 5.4 short tons (4.9 t) of uranium metal and 45 short tons (41 t) of uranium oxide.",
+    "user_response": "None"
+  },
+  "18": {
+    "question": "The first Astronaut to ORBIT the Earth was: \n(a) John Glenn\n(b) Yuri Gagarin\n(c) Alan Shepard\n(d) James Kirk\n",
+    "answer": "b",
+    "more_info": "Yuri Gagarin was the first person to fly in space. His flight, on April 12, 1961, lasted 108 minutes as he circled the Earth for a little more than one orbit in the Soviet Union's Vostok spacecraft. Following the flight, Gagarin became a cultural hero in the Soviet Union. Even today, more than six decades after the historic flight, Gagarin is widely celebrated in Russian space museums, with numerous artifacts, busts and statues displayed in his honor.",
+    "user_response": "None"
+  },
+  "19": {
+    "question": "Which vitamin is called ascorbic acid: \n(a) Vitamin C\n(b) Vitamin K\n(c) Vitamin B12\n(d) Vitamin A\n",
+    "answer": "a",
+    "more_info": "Vitamin C, also known as ascorbic acid and ascorbate, is a vitamin found in various foods and sold as a dietary supplement. It is used to prevent and treat scurvy.",
+    "user_response": "None"
+  },
+  "20": {
+  "question": "Which of the following elements was unknown to ancient civilizations?:\n(a) sulpher\n(b) mercury\n(c) tin\n(d) alluminium\n",
+  "answer": "d",
+  "more_info": "Aluminium (or aluminum) metal is very rare in native form, and the process to refine it from ores is complex, so for most of human history it was unknown. Moreover the amounts of energy needed to refine bauxite(an ore of aluminium) are unimaginable in context of ancient times...",
+  "user_response": "None"
+  }
+
 }
