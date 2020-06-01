@@ -46,3 +46,5 @@ A simple quiz game built using Python
     dvfleet413
     CrisCros
     Manan311
+    Vyom Jain
+
