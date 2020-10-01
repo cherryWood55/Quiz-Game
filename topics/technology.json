@@ -24,9 +24,9 @@
       "user_response": "None"
     },
     "5": {
-      "question": "Which is the latest version of Android?\n(a) Oreo\n(b) Nougat\n(c) Pie\n(d) Lollipop\n",
+      "question": "Which is the latest version of Android?\n(a) Oreo\n(b) Nougat\n(c) Android 11\n(d) Lollipop\n",
       "answer": "c",
-      "more_info": "The Latest Version of Android is 9.0, Pie. The initial version of Android Pie (9.0) was released on August 6, 2018 on Pixel devices. ",
+      "more_info": "The Latest Version of Android is 11.0. The initial version of Android 11 was released on September 8, 2020. Alphabetical release names based on desserts have been discontinued starting with Android 10. ",
       "user_response": "None"
     },
     "6": {
