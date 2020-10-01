@@ -28,6 +28,36 @@
     "answer": "b",
     "more_info": "There are three types of taxes :\n1. State GST (SGST)/Union Territory GST (UTGST),\n2. Central GST (CGST) and\n3. Integrated GST (IGST) ",
     "user_response": "None"
+  },
+  "6": {
+    "question": "Who is Father of Scientific Management?\n(a) Henry Fayol\n(b) Elton Mayo\n(c) Chester Bernard\n(d) F. W. Taylor\n",
+    "answer": "d",
+    "more_info": "https://en.wikipedia.org/wiki/Frederick_Winslow_Taylor",
+    "user_response": "None"
+  },
+  "7": {
+    "question": "The Life Insurance in India was nationalised in the year- \n(a) 1870\n(b) 1956\n(c) 1960\n(d) 1966\n",
+    "answer": "b",
+    "more_info": "https://en.wikipedia.org/wiki/Life_Insurance_Corporation",
+    "user_response": "None"
+  },
+  "8": {
+    "question": "Standard costing is a technique of- \n(a) Planning\n(b) Organising\n(c) Control\n(d) Coordination\n",
+    "answer": "c",
+    "more_info": "https://www.accountingnotes.net/cost-accounting/standard-costing/what-is-standard-costing/17502",
+    "user_response": "None"
+  },
+  "9": {
+    "question": "The first complete Indian Bank was established in the year - \n(a) 1794\n(b) 1894\n(c) 1896\n(d) 1902\n",
+    "answer": "b",
+    "more_info": "https://en.wikipedia.org/wiki/Banking_in_India",
+    "user_response": "None"
+  },
+  "10": {
+    "question": " The maximum rate for CGST is? \n(a) 28\n(b) 22\n(c) 18\n(d) 20\n",
+    "answer": "d",
+    "more_info": "https://www.quora.com/What-is-the-maximum-rate-of-GST-that-can-be-levied",
+    "user_response": "None"
   }
 }
 
