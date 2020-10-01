@@ -3,7 +3,7 @@ import json
 import time
 
 TOPICS_LIST = ['science', 'history', 'commerce', 'technology', 'worldgk'] 
-# this list has to in sync with the JSON filename and the Menu prompt inside test() method
+# this list has to  sync with the JSON filename and the Menu prompt inside test() method
 
 def ask_one_question(question):
     print("\n" + question)
