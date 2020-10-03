@@ -118,6 +118,35 @@
   "answer": "d",
   "more_info": "Aluminium (or aluminum) metal is very rare in it's native form, and the process to refine it from ores is complex, so for most of human history it was unknown. Moreover the amounts of energy needed to refine bauxite(an ore of Aluminium) are unimaginable in context of ancient times...",
   "user_response": "None"
+  },
+  "21": {    
+    "question": "Which of the following elements is used as an ore of aluminium during aluminium extraction?: \n(a) flourspar\n(b) cryolite\n(c) bauxite\n(d) alumina\n",
+    "answer": "c",
+    "more_info": "Bauxite is a natural ore of aluminium, It's chemical formula is (Al2O3.H2O) it is aluminium rich and mainly found in tropical and sub-tropical regions",
+    "user_response": "None"
+  },
+  "22": {
+    "question": "Who invented the Grandfather Paradox?: \n(a) joseph polchinski\n(b) zeno\n(c) russell\n(d) philip\n",
+    "answer": "a",
+    "more_info": "Joseph Polchinski gave an idea of the Grandfather paradox that if a person goes back in time and kills his grandfather what will be the consequence",
+    "user_response": "None"
+  },
+  "23": {
+    "question": "IRNSS is a ……………?: \n(a) navigation satellite\n(b) space mission\n(c) MARS mission\n(d) Geo stationary satellite\n",
+    "answer": "a",
+    "more_info": "It is an abbreviation for Indian Regional Navigation Satellite System",
+    "user_response": "None"
+  },
+  "24": {
+    "question": "Where is the Headquarter of ISRO?: \n(a) chandipur\n(b) bengaluru\n(c) mahendragiri\n(d) chennai\n",
+    "answer": "b",
+    "more_info": "None",
+    "user_response": "None"
+  },
+  "25": {
+    "question": "Which type of fuel is used by GSLV in its operations?: \n(a) Only solid fuel\n(b) Only liquid fuel\n(c) Liquid in first stage and solid in second stage\n(d) Solid in first stage and liquid in second stage\n",
+    "answer": "d",
+    "more_info": "As solid fuel we use Oxygen and as liquid fuel we use Hydrogen 'O' acts as oxidising agent where as 'H' acts as reducing agent",
+    "user_response": "None"
   }
-
 }

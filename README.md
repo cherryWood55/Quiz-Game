@@ -1,4 +1,4 @@
-# Quiz-Game
+# Quiz-Game (Your Interests Our Questions!)
 A simple quiz game built using Python
 
 ## Game Instructions
