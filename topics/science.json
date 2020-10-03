@@ -145,7 +145,7 @@
   },
   "25": {
     "question": "Which type of fuel is used by GSLV in its operations?: \n(a) Only solid fuel\n(b) Only liquid fuel\n(c) Liquid in first stage and solid in second stage\n(d) Solid in first stage and liquid in second stage\n",
-    "answer": "d"
+    "answer": "d",
     "more_info": "As solid fuel we use Oxygen and as liquid fuel we use Hydrogen 'O' acts as oxidising agent where as 'H' acts as reducing agent",
     "user_response": "None"
   }
